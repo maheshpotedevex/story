@@ -1,1 +1,1 @@
-It is first chapter. Great time with git
+It is first chapter interesting. Great time with git and its new branch.
